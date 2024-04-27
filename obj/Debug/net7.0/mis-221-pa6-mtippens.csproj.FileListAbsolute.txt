@@ -1,0 +1,14 @@
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\bin\Debug\net7.0\mis-221-pa6-mtippens.exe
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\bin\Debug\net7.0\mis-221-pa6-mtippens.deps.json
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\bin\Debug\net7.0\mis-221-pa6-mtippens.runtimeconfig.json
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\bin\Debug\net7.0\mis-221-pa6-mtippens.dll
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\bin\Debug\net7.0\mis-221-pa6-mtippens.pdb
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\obj\Debug\net7.0\mis-221-pa6-mtippens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\obj\Debug\net7.0\mis-221-pa6-mtippens.AssemblyInfoInputs.cache
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\obj\Debug\net7.0\mis-221-pa6-mtippens.AssemblyInfo.cs
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\obj\Debug\net7.0\mis-221-pa6-mtippens.csproj.CoreCompileInputs.cache
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\obj\Debug\net7.0\mis-221-pa6-mtippens.dll
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\obj\Debug\net7.0\refint\mis-221-pa6-mtippens.dll
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\obj\Debug\net7.0\mis-221-pa6-mtippens.pdb
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\obj\Debug\net7.0\mis-221-pa6-mtippens.genruntimeconfig.cache
+C:\Users\maymi\mis221\mis-221-pa6-mtippens\obj\Debug\net7.0\ref\mis-221-pa6-mtippens.dll
